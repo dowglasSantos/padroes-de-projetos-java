@@ -1,9 +1,9 @@
-package observer.users;
+package observer.canalYouTube.interfaces.users;
 
 import java.util.List;
 import java.util.LinkedList;
-import observer.interfaces.Observer;
-import observer.interfaces.Subject;
+import observer.canalYouTube.interfaces.Observer;
+import observer.canalYouTube.interfaces.Subject;
 
 public class CanalYoutube implements Subject {
     List<Observer> observerList = new LinkedList<>();

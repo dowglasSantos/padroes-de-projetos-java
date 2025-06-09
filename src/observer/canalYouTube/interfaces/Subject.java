@@ -1,4 +1,4 @@
-package observer.interfaces;
+package observer.canalYouTube.interfaces;
 
 public interface Subject {
     void salvarObservador(Observer observer);

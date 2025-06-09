@@ -1,6 +1,6 @@
-package observer.users;
+package observer.canalYouTube.interfaces.users;
 
-import observer.interfaces.Observer;
+import observer.canalYouTube.interfaces.Observer;
 
 public class InscritoDoCanal implements Observer {
     private String nome;

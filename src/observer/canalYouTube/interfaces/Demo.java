@@ -1,7 +1,7 @@
-package observer;
+package observer.canalYouTube.interfaces;
 
-import observer.users.CanalYoutube;
-import observer.users.InscritoDoCanal;
+import observer.canalYouTube.interfaces.users.CanalYoutube;
+import observer.canalYouTube.interfaces.users.InscritoDoCanal;
 
 public class Demo {
     public static void main(String[] args) {
